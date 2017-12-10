@@ -1,0 +1,26 @@
+
+.page-header {
+  overflow: auto;
+  padding-bottom: 1rem;
+}
+
+.page-header ul li {
+  float: left;
+  margin-right: 1em;
+  list-style: none;
+}
+
+/*
+ * Clearfix: contain floats
+ *
+*/
+
+.page-nav:before,
+.page-nav:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.page-nav:after {
+    clear: both;
+}
