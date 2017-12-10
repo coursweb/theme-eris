@@ -4,7 +4,7 @@ Eris est un thème créé en 2016 par [Themes Kingdom](https://themeskingdom.com
 
 Fonte par défaut: [Sk-Modernist](http://seankanedesign.com/work/sk-modernist), par Sean Kane. Incluse comme fichier webfont (version Bold et Regular).
 
-### Modèles de page
+### Modèles de page
 
 Ce thème propose un modèle de page particuler: Portfolio.
 Son résultat est de présenter les projets du portfolio.
