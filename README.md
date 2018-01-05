@@ -21,9 +21,9 @@ Deux emplacements de menus sont disponibles:
 
 Trois zones disponibles:
 
-- Sidebar
-- Footer Widgets 1
-- Footer Widgets 2
+- **Sidebar**
+- **Footer Widgets 1**
+- **Footer Widgets 2**
 
 ### Extensions recommandées:
 
