@@ -24,3 +24,12 @@
 .page-nav:after {
     clear: both;
 }
+
+/*
+ * Inline Images
+ *
+*/
+
+.main-content img {
+	border: 0.5em solid #159957;
+}

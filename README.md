@@ -6,8 +6,7 @@ Fonte par défaut: [Sk-Modernist](http://seankanedesign.com/work/sk-modernist), 
 
 ### Modèles de page
 
-Ce thème propose un modèle de page particuler: Portfolio.
-Son résultat est de présenter les projets du portfolio.
+Ce thème propose un modèle de page particuler: **Portfolio**. Son résultat est de présenter les projets du portfolio.
 
 ### Menus
 
@@ -15,6 +14,8 @@ Deux emplacements de menus sont disponibles:
 
 - **Primary menu** : navigation principale
 - **Side social menu** : menu secondaire
+
+![Les zones de menu](img/zones-de-menu-eris.jpg)
 
 ### Zones de widgets
 
@@ -28,9 +29,9 @@ Trois zones disponibles:
 
 Lors de l'activation de Eris, vous verrez les indications suivantes :
 
-- This theme requires the following plugin: Eris Custom Post Types.
+- This theme **requires** the following plugin: Eris Custom Post Types.
 
-- This theme recommends the following plugins: Eris Widgets, Flickr Bagdes Widget, TK Advertising Widget, TK Contact Form, TK Shortcodes, TK Social Share and Widget Visibility.
+- This theme **recommends** the following plugins: Eris Widgets, Flickr Bagdes Widget, TK Advertising Widget, TK Contact Form, TK Shortcodes, TK Social Share and Widget Visibility.
 
 
 L'extension "Eris Custom Post Types" est nécessaire pour activer le type de contenu "Portfolio".
